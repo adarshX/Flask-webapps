@@ -5,7 +5,7 @@
 * Install all required packages  (refer requirements.txt)
 <br>
 
-###Step 2 : Creating Flask app
+### Step 2 : Creating Flask app
 * Create a basic **blog posts** webapp using flask
 * First create a `run.py` file which is main file to run the app
 * Then create `HTML` files for , home , login and signup pages.
@@ -16,7 +16,7 @@
 * Name the package with the name of webapp and intialise the package with "__init.py__"
 <br>
 
-###Step 3 : Testing the webapp 
+### Step 3 : Testing the webapp 
 * we can  test the app locally using local host
 * Just run the main file `run.py` which creates the environment variable automatically and runs the webapp on the loclahost
 * open `http://localhost:5000/` to check your webapp and its features
